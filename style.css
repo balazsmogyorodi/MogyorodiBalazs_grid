@@ -1,0 +1,25 @@
+body {
+    background-color:blue;
+}
+div#wrapper {
+    background-color: aliceblue;
+    width: 600pt;
+    position: relative;
+   left: 200pt;
+
+}
+
+h1 {
+    font-size: 24pt;
+    color: rgb(0, 136, 248);
+}
+
+h2 {
+    font-size: 16pt;
+    color: rgb(0, 136, 248);
+
+}
+p {
+    font-size: 10pt;
+    color: rgb(0, 136, 248);
+}
